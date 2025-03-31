@@ -16,7 +16,11 @@ Over the past three years, I have been engaged in increasingly challenging proje
 - **Migrations**: From Magento 1 to Magento 2.
 
 ### Technical Proficiency
-I have developed a high level of proficiency in **Node.js** and **Vue.js**, enabling me to tackle demanding technology solutions effectively.
+Over the years, I have achieved a high level of expertise across the entire Adobe Commerce ecosystem, encompassing **PHP**, **SQL**, and **JavaScript**. My proficiency in these technologies has been instrumental in developing and optimizing e-commerce systems.
+
+In recent years, with the shift towards headless architectures, I have been actively involved in designing and implementing complex, often fully custom systems using **React** and **Next.js**. These projects are integrated with Adobe Commerce via **GraphQL**, ensuring seamless connectivity and enhanced performance.
+
+My technical skill set is marked by deep knowledge and proficient handling of these technologies, enabling me to deliver high-quality, innovative solutions that meet modern e-commerce demands.
 
 ### Integrations
 We frequently integrate with:
