@@ -1,36 +1,29 @@
-Studying software planning and a huge passion for the architecture of information has led me to become a Magespecialist Skeeler where I was able to develop my skills and interest in Magento 2. Thanks to this background and the following experience in Websolute, as well as never-ending individual studying, I was able to exponentially increase the quality of my code and get to the point of planning new architectures and innovative paths for excellent e-commerce, to the point of reaching such a level that allowed me to take the most important test in Magento 2: the Adobe Certified Master – Adobe Commerce Architect.
+## Professional Profile
 
-Together with Danilo Argentiero, I founded Ghost Unicorns, a reality which sees us working side by side on a selection of the best projects and clients who are looking for a simply perfect e-commerce, capable of overcoming any obstacle. We only take on stimulating projects which recognize the value of our skills, with a budget of over EUR 100,000.
+### Background
+My educational journey in software planning and a profound passion for information architecture began as a Mage Specialist Skeeler, where I developed a keen interest in Magento 2. This early experience, paired with my subsequent role at Websolute and continuous personal development, significantly enhanced my coding quality. My expertise evolved to designing new architectures and innovative e-commerce solutions, achieving the Adobe Certified Master – Adobe Commerce Architect certification.
 
-The e-commerce projects we work on often present the following characteristics and challenges, which we face and solve by creating innovative paths in Magento 2:
+### GhostUnicorns
+Together with Danilo Argentiero, I co-founded [GhostUnicorns](https://ghostunicorns.com), where we focus on delivering perfection in e-commerce for clients that demand the best. At GhostUnicorns, we engage in projects that:
+- Are stimulating and recognize our skills.
 
- Target B2B and B2C
-Magento Cloud
-Multiple storage (MSI)
-Customized layout and functions
-Headless
-Integration with 3D viewer, real-time composition of the product and automated estimate
-Migration from Magento 1 to Magento 2
-Catalogue
-Sales
-Customers
-Customer Addresses
-Reward Points
-Newsletter
-We provide integration for the following software:
+### Current Role
+Over the past three years, I have been engaged in increasingly challenging projects at GhostUnicorns, which have greatly satisfied my professional ambitions. Our projects often include:
+- **Target Markets**: B2B and B2C sectors.
+- **Technologies**: Magento Cloud, Multiple Storage (MSI), and Headless Commerce.
+- **Customizations**: Tailored layouts and functionalities.
+- **Advanced Features**: Integration with 3D viewers, real-time product compositions, and automated estimates.
+- **Migrations**: From Magento 1 to Magento 2.
 
-SAP
-Microsoft Dynamics 365
-Doofinder
-Algolia
-Akeneo
-Triboo
-As400
-Alyante – Gamma
-WildX Livechat
-Tooso search engine
-Coveo search engine
-We consider Magento as a house we need to refurnish and re-create. We take part in the community’s events, as:
+### Technical Proficiency
+I have developed a high level of proficiency in **Node.js** and **Vue.js**, enabling me to tackle demanding technology solutions effectively.
 
-Magentiamo
-Meet Magento
+### Integrations
+We frequently integrate with:
+- **ERP Systems**: SAP, Microsoft Dynamics 365.
+- **PIM Systems**: Akeneo.
+- **Search Engines**: Doofinder, Algolia, Tooso, Coveo.
+- **Other**: As400, Alyante – Gamma, WildX Livechat, Triboo.
+
+### Community Engagement
+We view Magento as a platform that requires continuous innovation. I actively participate in events such as Magentiamo and Meet Magento, contributing to and staying abreast of the latest industry trends.
