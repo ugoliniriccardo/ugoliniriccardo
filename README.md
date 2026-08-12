@@ -1,33 +1,38 @@
-## Professional Profile
+# Hi, I'm Riccardo
 
-### Background
-My educational journey in software planning and a profound passion for information architecture began as a Mage Specialist Skeeler, where I developed a keen interest in Magento 2. This early experience, paired with my subsequent role at Websolute and continuous personal development, significantly enhanced my coding quality. My expertise evolved to designing new architectures and innovative e-commerce solutions, achieving the Adobe Certified Master – Adobe Commerce Architect certification.
+I'm a Senior Backend Engineer and Tech Lead based in London, with 13 years of experience building production systems, APIs and complex integrations.
 
-### GhostUnicorns
-Together with Danilo Argentiero, I co-founded [GhostUnicorns](https://ghostunicorns.com), where we focus on delivering perfection in e-commerce for clients that demand the best. At GhostUnicorns, we engage in projects that:
-- Are stimulating and recognize our skills.
+My main stack is PHP/Laravel and Node.js/TypeScript. I also work with SQL, React, AWS, Docker, REST and GraphQL when the wider product needs it. I like taking difficult, unclear problems and turning them into maintainable systems that teams can run with confidence.
 
-### Current Role
-Over the past three years, I have been engaged in increasingly challenging projects at GhostUnicorns, which have greatly satisfied my professional ambitions. Our projects often include:
-- **Target Markets**: B2B and B2C sectors.
-- **Technologies**: Magento Cloud, Multiple Storage (MSI), and Headless Commerce.
-- **Customizations**: Tailored layouts and functionalities.
-- **Advanced Features**: Integration with 3D viewers, real-time product compositions, and automated estimates.
-- **Migrations**: From Magento 1 to Magento 2.
+## What I work on
 
-### Technical Proficiency
-Over the years, I have achieved a high level of expertise across the entire Adobe Commerce ecosystem, encompassing **PHP**, **SQL**, and **JavaScript**. My proficiency in these technologies has been instrumental in developing and optimizing e-commerce systems.
+- Backend architecture, APIs and integration-heavy platforms
+- Technical leadership that stays close to the code
+- Reliability, testing and delivery workflows
+- Payments, commerce and high-volume data synchronisation
 
-In recent years, with the shift towards headless architectures, I have been actively involved in designing and implementing complex, often fully custom systems using **React** and **Next.js**. These projects are integrated with Adobe Commerce via **GraphQL**, ensuring seamless connectivity and enhanced performance.
+## Current project
 
-My technical skill set is marked by deep knowledge and proficient handling of these technologies, enabling me to deliver high-quality, innovative solutions that meet modern e-commerce demands.
+### FeedNChat
 
-### Integrations
-We frequently integrate with:
-- **ERP Systems**: SAP, Microsoft Dynamics 365.
-- **PIM Systems**: Akeneo.
-- **Search Engines**: Doofinder, Algolia, Tooso, Coveo.
-- **Other**: As400, Alyante – Gamma, WildX Livechat, Triboo.
+[FeedNChat](https://www.feednchat.com) is my personal desktop and web control room for streamers. It brings multichannel chat, live activity, moderation, alerts, automations and an in-game HUD into one product, with workflows for Twitch, YouTube, Kick and TikTok.
 
-### Community Engagement
-We view Magento as a platform that requires continuous innovation. I actively participate in events such as Magentiamo and Meet Magento, contributing to and staying abreast of the latest industry trends.
+Built with React, TypeScript, Fastify, PostgreSQL and Electron.
+
+The application code is private, while Windows releases and update metadata are available in [feednchat-releases](https://github.com/ugoliniriccardo/feednchat-releases).
+
+## Experience
+
+I co-founded Ghost Unicorns and led backend engineering, managing four engineers in a 13-person team while remaining hands-on with architecture, implementation, reviews and production support. My earlier work includes 15+ Adobe Commerce deliveries, custom B2B/B2C platforms and integrations with Stripe, Adyen, Braintree, PayPal, Scalapay and enterprise data systems.
+
+I hold the Adobe Certified Master – Adobe Commerce Architect certification.
+
+## Core stack
+
+`PHP` · `Laravel` · `Node.js` · `TypeScript` · `SQL` · `PostgreSQL` · `MySQL` · `REST` · `GraphQL` · `React` · `AWS` · `Docker`
+
+## Open to opportunities
+
+I'm looking for a hands-on Senior Backend Engineer or Tech Lead role in a product-led team. I have full UK right to work and do not require sponsorship.
+
+[LinkedIn](https://www.linkedin.com/in/riccardougolini/) · [FeedNChat](https://www.feednchat.com)
